@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3e2cc6d-647d-407c-8c95-632d5266c5a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekFour/.idea/CourseOneWeekFour.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekFour/.idea/CourseOneWeekFour.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekFour/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekFour/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekFour/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekFour/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekFour/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekFour/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekFour/makejson.go" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekFour/makejson.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekFour/read.go" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekFour/read.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekThree/.idea/CourseOneWeekThree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekThree/.idea/CourseOneWeekThree.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekThree/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekThree/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekThree/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekThree/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekThree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekThree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekThree/slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekThree/slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekThree/sliceClass.go" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekThree/sliceClass.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekTwo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekTwo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekTwo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekTwo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekTwo/.idea/trunc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekTwo/.idea/trunc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekTwo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekTwo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekTwo/findian.go" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekTwo/findian.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekTwo/findianClasmate.go" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekTwo/findianClasmate.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekTwo/trunc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekTwo/trunc.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/CourseOneWeekTwo/trunc.go" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CourseOneWeekTwo/trunc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/hello/hello.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/hello/hello.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/hello/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/hello/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Course2Week1/BubbleSort.go" beforeDir="false" afterPath="$PROJECT_DIR$/Course2/Course2Week1/BubbleSort.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Course2Week2/ComputeDisplacement.go" beforeDir="false" afterPath="$PROJECT_DIR$/Course2/Course2Week2/ComputeDisplacement.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Course2Week3/AnimalInformation.go" beforeDir="false" afterPath="$PROJECT_DIR$/Course2/Course2Week3/AnimalInformation.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/ScratchTest/Functions.go" beforeDir="false" afterPath="$PROJECT_DIR$/Course2/ScratchTest/Functions.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Pt8ptPSigwrfJhVKJscnliwThK" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
